@@ -1,4 +1,4 @@
-# brain-tumor-cnn-cyclegan-xgboost-notebook
+# Brain Tumor Classification using CNN, CycleGAN, and XGBoost
 
 Panduan penggunaan notebook:
 - Data split and save (Preprocessing serta split data awal kedalam data training, validation, dan testing)
